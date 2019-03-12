@@ -1,9 +1,15 @@
-Create script
+Create script from below
 https://script.google.com/create
-View->manifest file
-paste json
-publish->deploy form manifest
+
+Go to View->manifest file
+paste json file content
+
+Go to publish->deploy form manifest
+
 copy GetID
+
 Go to gmail settings->addons->enable developer api
+
 paste getID
+
 refresh Gmail
