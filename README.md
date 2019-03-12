@@ -1,3 +1,4 @@
+# script to get the message id of each gmail message
 Create script from below
 https://script.google.com/create
 
