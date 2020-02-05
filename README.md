@@ -14,3 +14,9 @@ Go to gmail settings->addons->enable developer api
 paste getID
 
 refresh Gmail
+
+
+## Reference
+https://developers.google.com/apps-script/reference/gmail/gmail-draft
+https://developers.google.com/apps-script/reference/gmail/gmail-draft#getMessageId()
+https://developers.google.com/apps-script/reference/gmail/gmail-message#getId()
