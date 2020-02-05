@@ -14,6 +14,6 @@
   - refresh Gmail
 
 ## Reference
-https://developers.google.com/apps-script/reference/gmail/gmail-draft
-https://developers.google.com/apps-script/reference/gmail/gmail-draft#getMessageId()
-https://developers.google.com/apps-script/reference/gmail/gmail-message#getId()
+- https://developers.google.com/apps-script/reference/gmail/gmail-draft
+- https://developers.google.com/apps-script/reference/gmail/gmail-draft#getMessageId()
+- https://developers.google.com/apps-script/reference/gmail/gmail-message#getId()
